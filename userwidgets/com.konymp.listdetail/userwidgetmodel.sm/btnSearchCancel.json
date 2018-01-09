@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sedb27ea5e3540f084c40b22d8624cf4",
+    "_text_": "Cancel",
+    "_width_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "displaytext": true,
+    "focusskin": "sedb27ea5e3540f084c40b22d8624cf4",
+    "id": "btnSearchCancel",
+    "ide_onClick": "AS_Button_8413412065a24361a9ddbff5c9ba688a",
+    "info": null,
+    "isvisible": false,
+    "kuid": "icb04c4e2e344b168170b4b30c3a4cd4",
+    "name": "kony.ui.Button",
+    "parent": "flxSearch",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 4
+}
